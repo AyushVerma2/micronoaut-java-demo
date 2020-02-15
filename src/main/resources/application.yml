@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: micronoaut-java-demo
